@@ -1,0 +1,6 @@
+chcp 65001
+bundle exec jekyll serve
+
+gem install bundler jekyll minima jekyll-feed tzinfo-data rdiscount
+bundle update --bundler
+​bundle install
