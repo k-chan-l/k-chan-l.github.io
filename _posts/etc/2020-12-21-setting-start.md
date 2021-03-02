@@ -15,7 +15,7 @@ comments: true
     - [구글드라이브](#구글드라이브)
     - [Anaconda설치](#아나콘다설치)
     - [Visual Studio Code](#visualstudiocode-섪치)
- 
+
 
 ## 글을 쓰게된 이유
 ---
