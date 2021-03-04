@@ -248,7 +248,7 @@ input[type="checkbox"]:checked ~ ul{
 }
 
 .button{
-  background:#9effe8;
+  background:#00a780;
   color:#fff;
   border:none;
   position:relative;
@@ -261,7 +261,7 @@ input[type="checkbox"]:checked ~ ul{
 }
 .button:hover{
   background:#fff;
-  color:#00a780;
+  color:#00a780 !important;
 }
 .button:before,.button:after{
   content:'';
